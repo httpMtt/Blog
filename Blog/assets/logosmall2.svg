@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="708" height="79" viewBox="0 0 708 79">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 60.542px;
+        text-anchor: middle;
+        fill: #fff;
+        font-family: "Freestyle Script";
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <text id="matteosalvati.it" class="cls-1" transform="matrix(1.858, 0, 0, 1.858, 354.935, 74.923)"><tspan x="0">matteo<tspan class="cls-2">salvati.</tspan>it</tspan></text>
+</svg>

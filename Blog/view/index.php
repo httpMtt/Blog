@@ -24,7 +24,7 @@
                                 <?php
                                         $delimiter = $index < (count($post['tag']) - 1) ? ', ' : '.';
                                         ?>
-                                <a href="index.php?tag=<?= $tag ?>"><?= $tag ?></a><?= $delimiter ?>
+                                <a href="index.php?tag="<?= $tag ?>><?= $tag ?></a><?= $delimiter ?>
                             <?php } ?>
                     </article>
                 </div>

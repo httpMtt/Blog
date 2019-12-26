@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 170 70" style="enable-background:new 0 0 170 70;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;}
-	.st1{font-family:'Calibri';}
-	.st2{font-size:22px;}
-	.st3{fill:#FF0000;}
-</style>
-<rect x="4" y="28" class="st0" width="169" height="18"/>
-<text transform="matrix(1 0 0 1 4 42.916)"><tspan x="0" y="0" class="st1 st2">matteo</tspan><tspan x="64.61" y="0" class="st3 st1 st2">salvati.</tspan><tspan x="127.09" y="0" class="st1 st2">it</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="61" viewBox="0 0 380 61">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 60.542px;
+        text-anchor: middle;
+        fill: #fff;
+        font-family: "Freestyle Script";
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <text id="matteosalvati.it" class="cls-1" transform="matrix(1.443, 0, 0, 1.443, 191.69, 57.771)"><tspan x="0">matteo<tspan class="cls-2">salvati.</tspan>it</tspan></text>
 </svg>
